@@ -4,7 +4,7 @@
 This repository contains the analysis of different machine learning models' performance under data shifts within the hospitality industry.
 
 ## Contents
-- `Dataset/`: This directory contains the dataset used for the analysis.
+- `data/`: This directory contains the dataset used for the analysis.
 - `main.ipynb`: Jupyter notebook containing the analysis.
 
 ## Setup and Running
